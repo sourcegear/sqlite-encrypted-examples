@@ -19,4 +19,3 @@ These applications demonstrate the official SQLite.Encrypted packages in realist
 
 Package documentation and evaluation-key information are available at [sqlite.sourcegear.com](https://sqlite.sourcegear.com/).
 
-_This catalog is generated from [sourcegear/sqlite-bindings](https://github.com/sourcegear/sqlite-bindings)._
