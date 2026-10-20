@@ -2,6 +2,8 @@
 
 These applications demonstrate the official SQLite.Encrypted packages in realistic, idiomatic projects. Each example requires a licensed SQLite Encryption Extension (SEE) activation key.
 
+Free fully-featured demo keys are available from [sqlite.sourcegear.com](https://sqlite.sourcegear.com/#evaluation).
+
 | Example | Package |
 | --- | --- |
 | [Encrypted Expo Field Journal](https://github.com/sourcegear/sqlite-encrypted-expo-field-journal) | `@sqlite-encrypted/expo` |
